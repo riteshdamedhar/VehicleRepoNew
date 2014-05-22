@@ -1,4 +1,4 @@
-﻿<%@ master language="C#" autoeventwireup="true" inherits="Admin_AdminMasterPage, App_Web_dibkkmlt" %>
+﻿<%@ master language="C#" autoeventwireup="true" inherits="Admin_AdminMasterPage, App_Web_bfzmcvyn" %>
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
 
