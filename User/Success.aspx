@@ -1,4 +1,4 @@
-﻿<%@ page title="" language="C#" masterpagefile="~/User/UserMasterPage.master" autoeventwireup="true" inherits="User_Success, App_Web_cea2mucg" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/User/UserMasterPage.master" autoeventwireup="true" inherits="User_Success, App_Web_lo0xlfg3" %>
 
 <%@ Register Assembly="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"
     Namespace="CrystalDecisions.Web" TagPrefix="CR" %>
@@ -23,8 +23,6 @@
           <tr><td>
               <asp:LinkButton ID="lnl_receipt" runat="server" onclick="lnl_receipt_Click">Click Here to Download Receipt</asp:LinkButton></td></tr>
       
-            <CR:CrystalReportViewer ID="CR_Receipt" runat="server" AutoDataBind="true" 
-                Visible="False" />
          <%--   <tr>
                 <td>
                     Transaction Id:
